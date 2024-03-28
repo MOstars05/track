@@ -1,0 +1,18 @@
+import logo from './logo.png'
+import service from './service.png'
+import zapchast from './zapchast.png'
+import moyka from './moyka.png'
+import aksesuari from './aksesuari.png'
+import maslo from './maslo.png'
+import fotki from './fotki.png'
+import map from './map.png'
+import bgImg from './bgImg.png'
+import bgImg2 from './bgImg2.png'
+import scania from './scania.png'
+import valvo from './valvo.png'
+import man from './man.png'
+import daf from './daf.png'
+import renault from './renault.png'
+import logo2 from './logo2.png'
+
+export {logo, service, zapchast, moyka, aksesuari, maslo, fotki, map, bgImg, bgImg2, scania, valvo, man, daf, renault, logo2}
